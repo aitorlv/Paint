@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_tools">Heramientas</string>
+    <string name="action_colors">Color</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="title_activity_dialogo__figuras">Dialogo_Figuras</string>
+
+</resources>

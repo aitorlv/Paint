@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+    <item android:id="@+id/action_herramientas"
+          android:title="@string/action_tools"
+          android:orderInCategory="100"/>
+    <item android:id="@+id/action_colores"
+          android:title="@string/action_colors"
+          android:orderInCategory="100"/>
+    <item android:id="@+id/action_guardar"
+        android:title="@string/action_guardar"
+        android:orderInCategory="100"/>
+
+</menu>
